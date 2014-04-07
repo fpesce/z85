@@ -1,0 +1,1 @@
+-x c -I/Users/francois/Work/ruby-2.1.1/include -I/Users/francois/Work/ruby-2.1.1/.ext/include/x86_64-darwin13.0/ -Iext/z85/ -w

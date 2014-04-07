@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/z85
+lib/z85.rb
+test/test_z85.rb
